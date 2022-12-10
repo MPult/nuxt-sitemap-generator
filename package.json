@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-sitemap-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPult/nuxt-sitemap.git"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/MPult/nuxt-sitemap/issues"
+  },
+  "homepage": "https://github.com/MPult/nuxt-sitemap#readme"
+}
